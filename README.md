@@ -269,6 +269,28 @@
 - Teams: https://create.roblox.com/docs/en-us/players/teams.md
 - Leaderboards: https://create.roblox.com/docs/en-us/players/leaderboards.md
 
+### 16b. Physics, animation, environment & camera (new)
+- Physics overview: https://create.roblox.com/docs/en-us/physics.md
+- Assemblies: https://create.roblox.com/docs/en-us/physics/assemblies.md
+- Mechanical constraints: https://create.roblox.com/docs/en-us/physics/mechanical-constraints.md
+- Mover constraints: https://create.roblox.com/docs/en-us/physics/mover-constraints.md
+- Network ownership (physics): https://create.roblox.com/docs/en-us/physics/network-ownership.md
+- Animation hub: https://create.roblox.com/docs/en-us/animation.md
+- Animation Editor: https://create.roblox.com/docs/en-us/animation/editor.md
+- Using animations: https://create.roblox.com/docs/en-us/animation/using.md
+- Inverse kinematics: https://create.roblox.com/docs/en-us/animation/inverse-kinematics.md
+- Animation Graph Editor: https://create.roblox.com/docs/en-us/animation/graph-editor.md
+- Lighting and effects: https://create.roblox.com/docs/en-us/environment.md
+- Global lighting: https://create.roblox.com/docs/en-us/environment/lighting.md
+- Atmospheric effects: https://create.roblox.com/docs/en-us/environment/atmosphere.md
+- Effects (particles, beams, trails, lights, highlights): https://create.roblox.com/docs/en-us/effects.md
+- Terrain: https://create.roblox.com/docs/en-us/parts/terrain.md
+- Custom terrain materials: https://create.roblox.com/docs/en-us/parts/custom-terrain-materials.md
+- Camera: https://create.roblox.com/docs/en-us/workspace/camera.md
+- Free camera mode: https://create.roblox.com/docs/en-us/workspace/camera/free-camera.md
+- Remote events & callbacks: https://create.roblox.com/docs/en-us/scripting/events/remote.md
+- Bindable events & callbacks: https://create.roblox.com/docs/en-us/scripting/events/bindable.md
+
 ### 17. Assets, avatars, marketplace, 3D art
 - Assets overview: https://create.roblox.com/docs/en-us/assets.md
 - Asset Manager: https://create.roblox.com/docs/projects/assets/manager.md
@@ -317,6 +339,8 @@
 - Immersive ads: https://create.roblox.com/docs/en-us/production/monetization/immersive-ads.md
 - Rewarded video ads: https://create.roblox.com/docs/en-us/production/promotion/rewarded-video-ads.md
 - Publishing requirements: https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166
+- **Experience guidelines**: https://create.roblox.com/docs/en-us/production/promotion/experience-guidelines.md
+- **Content maturity & compliance**: https://create.roblox.com/docs/en-us/production/promotion/content-maturity.md
 
 ### 19. Tools, plugins, workflow
 - Studio plugins: https://create.roblox.com/docs/en-us/studio/plugins.md
@@ -326,7 +350,15 @@
 - Studio importer: https://create.roblox.com/docs/en-us/studio/importer.md
 - Data model: https://create.roblox.com/docs/en-us/projects/data-model.md
 - Activity history: https://create.roblox.com/docs/en-us/projects/activity-history.md
-- Third-party tools: https://create.roblox.com/docs/projects/external-tools
+- Third-party tools overview: https://create.roblox.com/docs/en-us/projects/external-tools.md
+- **Rojo**: https://create.roblox.com/docs/en-us/projects/rojo.md
+- **Wally** (package manager): https://wally.run/
+- **Rokit** (toolchain manager): https://github.com/rojo-rbx/rokit
+- **Selene** (linter): https://github.com/Kampfkarren/selene
+- **StyLua** (formatter): https://github.com/JohnnyMorganz/StyLua
+- **luau-lsp** (language server): https://github.com/JohnnyMorganz/luau-lsp
+- **Lune** (standalone Luau runtime): https://github.com/lune-org/lune
+- **Tarmac** (asset uploader): https://github.com/Roblox/tarmac
 
 ### 20. Policies and support
 - Terms of Use: https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
